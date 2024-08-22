@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+}
+
+.container-1{
+    text-align: center;
+    background-color: green; font-size: 60px;
+    border: 3px solid black
+}
+
+.container-2{
+    text-align: center;
+    background: blue; font-size: 60px;
+    border: 3px solid burlywood;
+}
