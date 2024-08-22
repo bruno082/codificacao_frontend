@@ -1,0 +1,18 @@
+div{
+    background-color: bisque;
+}
+
+.um{
+    background-color: aqua;
+}
+
+.tres{
+    background-color: blueviolet;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("image1.webp");
+    background-repeat: round;
+}
