@@ -1,0 +1,11 @@
+.container-01{
+background-color: grey;
+border-width: 20px;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("image1.webp");
+    background-repeat: round;
+    margin: 0;
+}
