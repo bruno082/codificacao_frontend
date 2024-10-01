@@ -1,0 +1,83 @@
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    font-family: "inter", sans-serif;
+}
+
+body{
+    background-color: hsl(0,0%,8%);
+}
+
+.container{
+    width: 350px;
+    height: 800px;
+    margin-left: 40%;
+    margin-top: 200px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: hsl(0,0%,12%);
+    border-radius: 10px;
+}
+
+.titulo{
+    text-align: center;
+    color: hsl(0,0%,100%);
+}
+
+.subtitulo{
+    color: hsl(75,94%,57%);
+    text-align: center;
+}
+
+.frase{
+    text-align: center;
+    color: hsl(0,0%,100%);
+}
+
+.git{
+    background-color: hsl(0,0%,20%);
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.front{
+    background-color: hsl(0,0%,20%);
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.linkedin{
+    background-color: hsl(0,0%,20%);
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.twitter{
+    background-color: hsl(0,0%,20%);
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.instagram{
+    background-color: hsl(0,0%,20%);
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.linkss{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    padding: 10px;
+}
