@@ -1,0 +1,95 @@
+.frança{
+display: flex;
+height: 400px;
+}
+.frança-1{
+    width: 200px;
+    background-color: darkblue
+}
+.frança-2{
+    width: 200px;
+}
+.frança-3{
+    width: 200px;
+    background-color: red;
+}
+
+
+.Italia{
+    display: flex;
+    height: 400px;
+}
+.italia-1{
+width: 200px;
+background-color:darkgreen;
+}
+.italia-2{
+width: 200px;
+}
+.italia-3{
+width: 200px;
+background-color: red;
+}
+
+
+.Alemanha{
+width: 200px;
+flex-direction: column;
+margin-right: auto;
+}
+.alemanha-1{
+width: 600px;
+height: 100px;
+background-color: black;
+}
+.alemanha-2{
+width: 600px;
+height: 100px;
+background-color: red;
+}
+.alemanha-3{
+width: 600px;
+height: 100px;
+background-color: yellow;
+}
+
+
+.Argentina{
+    width: 200px;
+    flex-direction: column;
+    margin-right: auto;
+}
+.argentina-1{
+width: 600px;
+height: 100px;
+background-color: deepskyblue;
+}
+.argentina-2{
+    width: 600px;
+    height: 100px;
+}
+.argentina-3{
+    width: 600px;
+    height: 100px;
+    background-color: deepskyblue;
+}
+
+
+.Nigeria{
+  display: flex;  
+  height: 400px;
+}
+.nigeria-1{
+width: 200px;
+background-color: green;
+}
+.nigeria-2{
+width: 200px;
+}
+.nigeria-3{
+width: 200px;
+background-color: green;
+}
+
+
+
