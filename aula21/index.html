@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Formulario de cadastro</title>
+</head>
+<body>
+    
+    <div class="container">
+        <h1>Criar uma conta nova</h1>
+        <p>E rápido e fácil</p>
+
+        <form class="formulario" >
+            <label for="nome-próprio">Nome própro</label>
+            <input id="nome-proprio"  type="text">
+
+            <label for="apelido">apelido</label>
+            <input id="apelido" type="text">
+
+            <label for="nascimento">Data de nascimento</label>
+            <select name="" id="nascimento"></select>
+            <input id="nascimento" type="date">    
+
+            <label for="genero">GÊNERO</label>
+            <select name="genero" id="genero">
+                 <option value="masculino">Masculino</option>    
+                 <option value="Feminino">Feminino</option>    
+                 <option value="outro">Outro</option>  
+            </select>    
+            
+            <label for="email">Email</label>
+            <input id="email" type="email">
+
+            <label for="senha">Senha</label>
+            <input id="senha" type="password">
+
+            <button type="cadastrar" onclick="cadastrar()">Cadastrar</button>
+
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
