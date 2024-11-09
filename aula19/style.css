@@ -1,0 +1,31 @@
+
+.caixa{
+    width: 400px;
+    height: 400px;
+}
+
+.botao{
+    padding: 20px;
+    border: 2px solid moccasin;
+    border-radius: 5px;
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+}
+
+.vermelho{
+    background-color: red;
+}
+
+.botao{
+    padding: 20px;
+    border: 2px solid moccasin;
+    border-radius: 5px;
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+}
+
+.vermelho{
+    background-color: red;
+}
