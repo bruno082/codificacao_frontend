@@ -1,0 +1,29 @@
+.container{
+    height: 500px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item-1{
+    width: 170px;
+    height: 150px;
+    background-color: crimson;
+    border: 2px solid black;
+}
+
+.item-2{
+    width: 170px;
+    height: 150px;
+    background-color: tomato;
+    border: 2px solid black;
+}
+
+.item-3{
+    width: 170px;
+    height: 150px;
+    background-color: greenyellow;
+    border: 2px solid black;   
+}
