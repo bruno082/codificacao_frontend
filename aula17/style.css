@@ -1,0 +1,24 @@
+html{
+    font-size: 16px;
+}
+
+body{
+    background-color: black;
+}
+
+@media (max-width: 600px){
+    body{
+        background-color: purple;
+    }
+    .paragrafo{
+        color: green;
+    }
+}
+
+.container{
+    font-size: 30px;
+}
+
+.paragrafo-2{
+    font-size: 2rem;
+}
