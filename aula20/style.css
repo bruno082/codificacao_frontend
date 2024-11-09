@@ -1,0 +1,11 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    background-color: burlywood;
+}
+
+.btn{
+    margin-top: 20px;
+    
+}
