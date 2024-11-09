@@ -1,0 +1,23 @@
+h1{
+    display: block;
+    background-color: aqua;
+}
+
+p{
+    background-color: bisque;
+}
+
+span{
+    background-color: burlywood;
+    
+}
+
+.span2{
+    background-color: bisque;
+}
+
+a{
+    display: inline-block;
+    width: 150px;
+    background-color: aquamarine;
+}
